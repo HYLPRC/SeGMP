@@ -1,8 +1,7 @@
-# SGMDTI
+# SeGMP
+This repository provides a reference implementation of **SeGMP** as described in the paper:
 
-This repository provides a reference implementation of **SGMDTI** as described in the paper:
-
-**SGMDTI: A uniﬁed framework for drug–target interaction prediction by semantic-guided meta-path method**  
+**SeGMP: Semantic-Guided Meta-Path Representation Learning for Drug-Target Interaction Prediction**  
 *Haoyuan Li, Jianxin Wang, Haochen Zhao, Kai Zheng, Qichang Zhao*
 
 ![Image Alt Text](SGMDTI-master/Figure/flowchart.jpg)
